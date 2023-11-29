@@ -1,4 +1,4 @@
-module github.com/HugoBlox/hugo-blox-builder/starters/blog
+module github.com/BaiShengxi/website
 
 go 1.19
 
